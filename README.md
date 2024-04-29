@@ -32,6 +32,8 @@ Links from the video:
 Small Animations:
 
 
+![pimoroni_5x5rgb_shifter_indicator](https://github.com/upiir/pimoroni_5x5rgb_led_matrix_display/assets/117754156/a4e841ce-6d20-41f5-b534-953c12284442)
+
 
 
 Screenshots from the video:
