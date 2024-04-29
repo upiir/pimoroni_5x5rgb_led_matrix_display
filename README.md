@@ -3,7 +3,9 @@ Gear Indicator with Pimoroni 5x5px RGB LED Matrix Display
 
 **YouTube video: https://youtu.be/84bn_OpuyCQ**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/396513870782770177**
+
+
 
 
 - YouTube video part 1: https://youtu.be/QixtxaAda18
