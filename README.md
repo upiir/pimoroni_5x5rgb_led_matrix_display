@@ -1,9 +1,26 @@
 # Gear Indicator with Pimoroni 5x5px RGB LED Matrix Display
 Gear Indicator with Pimoroni 5x5px RGB LED Matrix Display
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/84bn_OpuyCQ**
 
 **WOKWI sketch: XXX**
+
+
+- YouTube video part 1: https://youtu.be/QixtxaAda18
+- YouTube video part 2: https://youtu.be/sZZFgSmYJjc
+- YouTube video part 3: https://youtu.be/HcP48uCBzDQ
+
+Links from the video:
+- do you like video? Please consider buying me coffee, thanks! https://www.buymeacoffee.com/upir
+- Bambu Lab A1 mini 3D Printer: https://shareasale.com/r.cfm?b=2420414&u=3422904&m=138211&urllink=&afftrack=
+- MOMO shifter knob: https://s.click.aliexpress.com/e/_DnKeTPb
+- Pimoroni 5x5 RGB LED Matrix Display: https://shop.pimoroni.com/products/5x5-rgb-matrix-breakout?variant=21375941279827
+- Breadboard wires: https://s.click.aliexpress.com/e/_Dkbngin
+- Arduino UNO R3: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_DlxEfPX
+- Photopea (online graphics editor like Photoshop): https://www.photopea.com/
+- Car shifter keyring: https://s.click.aliexpress.com/e/_DkjX6eL
+- Image Converter: https://lvgl.io/tools/imageconverter_v9
 
 
 ![THUMB_pimoroni_5x5rgb_inside_shifter_knob_v2](https://github.com/upiir/pimoroni_5x5rgb_led_matrix_display/assets/117754156/b7374ca9-2b07-4eb0-be08-10035cecd286)
